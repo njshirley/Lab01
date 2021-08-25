@@ -1,11 +1,5 @@
-<<<<<<< HEAD
+
 git second commit
 han solo
 
-=======
-<<<<<<< HEAD
-han sizzler
-=======
-han sizzler
->>>>>>> problemChild
->>>>>>> solo
+
