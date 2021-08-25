@@ -1,3 +1,7 @@
+<<<<<<< HEAD
 git second commit
 han solo
 
+=======
+han solo
+>>>>>>> solo
